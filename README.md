@@ -1,16 +1,35 @@
-### Hi there 👋
+# Ciao! 👋 Sono Lorenzo Bagnis
 
-<!--
-**LorenzoBagnis/LorenzoBagnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvenuto nel mio profilo GitHub! Sono appassionato di programmazione e tecnologia, e qui troverai alcuni dei miei progetti e contributi.
 
-Here are some ideas to get you started:
+## Attualmente sto lavorando su
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sito per un Agenzia: Una applicazione web per la gestione di Immobili con Flask
+- Reti Neurali
+- 
+## Sto imparando
+
+Attualmente sto approfondendo le mie conoscenze in:
+
+- Machine learning
+- Sviluppo web moderno
+
+## Cerco collaborazione su
+
+Sono interessato a collaborare su progetti riguardanti:
+
+- Open source
+- Sviluppo web e mobile
+
+## Come contattarmi
+
+Puoi raggiungermi tramite:
+
+- Email: lorenzo.bagnis@itiscuneo.eu
+
+## Curiosità
+
+- Sono un grande Appassionato del mondo informatico e sempre pronto a imparare nuovi Linguaggi
+- Amo viaggiare e scoprire nuove culture.
+
+Grazie per aver visitato il mio profilo! 😄
